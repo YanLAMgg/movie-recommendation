@@ -61,4 +61,3 @@ sns.barplot(x='average_rating', y='title', data=recommended_movies)
 plt.title(f"movies recommended to users {user_id} ")
 plt.tight_layout()
 plt.show()
-
